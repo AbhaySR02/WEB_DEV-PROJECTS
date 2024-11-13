@@ -19,7 +19,7 @@ This repository documents my journey through **The Odin Project**, covering vari
 Here is a list of projects included in this repository, organized by module:
 
 1. **Foundations**
-   - Project 1: [Description of Project 1](link to project folder)
+   - Project 1: food recipes landing page(https://github.com/AbhaySR02/WEB_DEV-PROJECTS/tree/main/Odin-Recipes)
    - Project 2: [Description of Project 2](link to project folder)
    
 2. **Intermediate HTML and CSS**
